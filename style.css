@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 200px;
+}
+
+.input-group {
+    width: 400px;
+}
+
+.btn {
+    margin-top: 10px;
+    width: 400px;
+}
+
+.input-group #logIn {
+    width: 400px;
+}
